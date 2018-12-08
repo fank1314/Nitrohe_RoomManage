@@ -15,3 +15,13 @@
 
 - 实体关系图E-R
 <img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/E-Rtu.png" alt="">
+<h2>效果图</h2>
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-login.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-tea.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-tealogin.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-teapoint.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/logout-alert.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-stu.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-stuinfo.png" alt="">
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/admin-stuscore.png" alt="">

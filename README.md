@@ -14,3 +14,4 @@
 	4 访问localhost/Nitrohe_RoomManage<br>
 
 - 实体关系图E-R
+<img src="https://github.com/fank1314/Nitrohe_RoomManage/blob/master/E-Rtu.png" alt="">
